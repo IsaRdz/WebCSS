@@ -49,6 +49,7 @@ h1{
 .menu{
     display: flex;
     flex-direction: column;
+    width: 10vw;
 }
 
 .menu a{
@@ -57,6 +58,7 @@ h1{
 
 .content{
     margin-left: 5vw;
+    width: 100%;
 }
 p{
     padding-left: 2vw;
