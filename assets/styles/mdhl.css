@@ -45,7 +45,10 @@ h1{
     margin-right: 3vw;
     margin-top: 8vh;
 }
-
+.ident{
+    margin-bottom: 1vh;
+    text-indent: 30px;
+}
 .menu{
     display: flex;
     flex-direction: column;
@@ -60,8 +63,50 @@ h1{
     margin-left: 5vw;
     width: 100%;
 }
+
 p{
-    padding-left: 2vw;
     padding-bottom: 3vh;
     padding-right: 2vw;
+}
+.title-rules{
+    text-align: center;
+}
+.title-ihf-field{
+    padding-top: 2vh;
+}
+.rules > h3{
+    margin-bottom: 2vh;
+    margin-top: 1vh;
+}
+.p-indent{
+    text-indent: 30px;
+    padding-bottom: 0;
+}
+.p-rules{
+    display: inline;
+}
+span{
+    font-weight: bold;
+    display: inline;
+}
+ol li{
+    list-style-position: inside;
+    margin-bottom: 2vh;
+}
+
+ul{
+    margin-left: 50px;
+    padding-left: 0;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+.list-lowerlatin{
+    list-style-type: lower-latin;
+    margin-bottom: 2vh;
+}
+.list-lowerlatin > li{
+    margin-bottom: 0;
+}
+section{
+    margin-bottom: 8vh;
 }
