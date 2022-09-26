@@ -44,6 +44,7 @@ h1 {
   margin-left: 3vw;
   margin-right: 3vw;
   margin-top: 6vh;
+  margin-bottom: 6vh;
 }
 .ident {
   margin-bottom: 1vh;
@@ -54,16 +55,13 @@ h1 {
   flex-direction: column;
   width: 10vw;
 }
-
 .menu a {
-  padding-bottom: 7vh;
+  padding-bottom: 5vh;
 }
-
 .content {
   margin: 0 auto;
   width: 70%;
 }
-
 p {
   padding-bottom: 3vh;
   padding-right: 2vw;
